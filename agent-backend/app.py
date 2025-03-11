@@ -35,11 +35,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Initialize the AI assistant
 assistant = AIAssistant()
 
-# Initialize OpenAI client
-# Note: Set your API key as an environment variable or replace with your actual key
+
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "your_api_key_here")
 openai_client = openai.OpenAI(api_key=OPENAI_API_KEY)
 
