@@ -1,5 +1,7 @@
 # ai_health_assistant
 ##Please watch this video 
+[Video](https://drive.google.com/file/d/1oEA1boUb3As-dRgqO_BoCHhEx3LJH6Ei/view?usp=drive_link)
+
 A FastAPI-based application that provides an AI-powered health assistant for managing medical appointments, answering health-related questions, and analyzing medical images.
 
 ## Features
