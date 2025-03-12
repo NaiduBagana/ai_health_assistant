@@ -1,4 +1,4 @@
-# A fully automated ai_health_assistant
+# A fully automated AI Health assistant 🩺
 ## Please watch this video becauase our backend free deploy service will not work accurately 
 [Video](https://drive.google.com/file/d/1oEA1boUb3As-dRgqO_BoCHhEx3LJH6Ei/view?usp=drive_link)
 
